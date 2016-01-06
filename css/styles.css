@@ -1,0 +1,47 @@
+.koko {
+  float: left;
+  width: 30%;
+  border-right: 2px solid black;
+  height: 750px;
+  padding-right: 25px;
+  margin-left: 20px;
+}
+
+.peanut {
+  float: left;
+  width: 30%;
+  border-right: 2px solid black;
+  height: 750px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.hooty {
+  float: left;
+  width: 30%;
+  height: 750px;
+  padding-left: 25px;
+}
+
+.peanut img {
+  height: 500px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+  text-shadow: 10px 10px 20px grey;
+}
+
+.koko h3, .peanut h3, .hooty h3 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 30px; 
+}
